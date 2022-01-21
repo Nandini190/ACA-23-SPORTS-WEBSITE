@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sports Person</title>
+    
+    style:"ul {
+ 
+    display: flex;
+    align-content: center;
+    justify-content: center; }
+ul li {
+    list-style: none;
+  }
+ul li a {
+    text-transform: uppercase;
+    font-weight: bold;
+    color:yellow;
+    font-size: 0.875em;
+    text-decoration: none;
+    padding: 1em;
+    white-space: nowrap;
+    letter-spacing: 1px;
+  }
+ul li a:hover {
+    border-bottom: 3px solid orange;}
+.header {
+        padding: 20px;
+        height: 100vh;
+        background-image: url(https://imgk.timesnownews.com/story/PV_Sindhu_dedicates_her_bronze_medal_to_Covid_victims_and_her_family_members.jpg?tr=w-1200,h-900);
+        background-size: cover;
+        position: relative;
+      }
+.header h1 {
+        margin: 0;
+        font-weight: 900;
+        font-style: italic;
+        font-size: 3rem;
+        text-align: left;
+        color:rgb(35, 66, 241);
+        margin-bottom: 20px;
+      }
+.header .CONTENT{
+        position: relative;
+        top: 50%;
+        text-align: center;
+        
+      }
+.flex {
+        display: flex;
+        color: rgb(206, 233, 89);
+        padding: 100px 150px ;
+        position: center;
+          background: linear-gradient(to bottom, #16222a, #4e4376);
+      }
+      
+.flex h1 {
+        font-size: 325%;
+        text-align: center;
+        color: coral;
+      }
+.flex p {
+        font-weight: 400%;
+        font-family: cursive;
+        font-size: 150%;
+        text-align: center;
+        justify-content: center;
+        
+      }
+
+.flex1{
+   display: flex;
+   color: cyan;
+   padding:100px 150px;
+   position: center;
+   background:radial-gradient(orangered,orange,pink)
+
+}
+.flex1 h1{
+  font-size: 250%;
+  text-align: center;
+  color:darkblue ;
+}
+.flex1 p{
+  font-family: cursive;
+  font-size: 150%;
+  text-align: center;
+  justify-content: center;
+  text-decoration:dotted black;
+}"
+</head>
+<body>
+    <div class="header">
+        <div class="navbar">
+            <div class="container">
+                <ul>
+                    <li><a href="#">HOME</a></li>
+                    <li><a href="#">BIOGRAPHY</a></li>
+                    <li><a href="#">ACHIEVEMENTS</a></li>
+                </ul>
+
+            </div>
+
+        </div>
+
+    
+        <div class="CONTENT">
+         <h1>P.V. SINDHU</h1>
+        </div>
+    </div>
+    <div class="flex">
+      <div>
+         <h1>BIOGRAPHY</h1>
+          <p>
+            Pusarla Venkata Sindhu (born 5 July 1995) is an Indian professional badminton player. Considered one of India's most successful sportspersons, Sindhu has won medals at various tournaments including the Olympics and on the BWF circuit, including a gold at the 2019 World Championships. She is the first and only Indian to become the Badminton World Champion and only the second individual athlete from India to win two consecutive medals at the Olympic Games. She rose to a career-high world ranking of no. 2 in April 2017.
+
+            Sindhu broke into the top 20 of the BWF World Ranking in September 2012, at the age of 17.Beginning in 2013, she has won a medal at every edition of the BWF world championships, with the exception of 2015. She is just the second woman after China's Zhang Ning ever to win five or more singles medals at the world championships. She represented India at the 2016 Summer Olympics (Rio), where she became the first Indian badminton player to reach the Olympic final. She won the silver medal after losing out to Spain's Carolina Marin. She made her second consecutive Olympic appearance at the 2020 Summer Olympics (Tokyo) and won a bronze medal, becoming the first-ever Indian woman to win two Olympic medals.
+            
+            Sindhu won her first superseries title at the 2016 China Open and followed it up with four more finals in 2017, winning the titles in South Korea and India. In addition to that, she has won a silver medal each at the 2018 Commonwealth Games and 2018 Asian Games, and two bronze medals at the Uber Cup.
+            
+            With earnings of US$8.5 million, $5.5 million and $7.2 million respectively, Sindhu made the Forbes' list of Highest-Paid Female Athletes in 2018, 2019 and 2021. She is the recipient of the sports honour Major Dhyan Chand Khel Ratna, and India's fourth highest civilian award, the Padma Shri. She was also honoured with Padma Bhushan, the third highest civilian award in India, in January 2020.
+            Pusarla Venkata Sindhu was born and brought up in Hyderabad, India to P. V. Ramana and P. Vijaya.[1][18] Ramana, an employee of the Indian Railways, was born in Nirmal, Telangana while Vijaya hails from Vijayawada, Andhra Pradesh. Both her parents have been national level volleyball players. Her father, Ramana, who was a member of the Indian volleyball team that won the bronze medal in 1986 Seoul Asian Games, received the Arjuna Award in 2000 for his contribution to the sport.
+
+            Sindhu lives in Hyderabad, Telangana. She was educated at Auxilium High School, Hyderabad and at St. Ann's College for Women, Hyderabad. Though her parents played professional volleyball, she chose badminton over it because she drew inspiration from the success of Pullela Gopichand, the 2001 All England Open Badminton Champion She eventually started playing badminton from the age of eight.She first learned the basics of the sport with the guidance of Mehboob Ali at the badminton courts of Indian Railway Institute of Signal Engineering and Telecommunications in Secunderabad. Soon after, she joined Pullela Gopichand's Gopichand Badminton Academy. While profiling her career, a correspondent with The Hindu wrote:
+
+            "The fact that she reports on time at the coaching camps daily, traveling a distance of 56 km from her residence, is perhaps a reflection of her willingness to complete her desire to be a good badminton player with the required hard work and commitment."
+
+            Gopichand seconded this correspondent's opinion when he said that "the most striking feature in Sindhu's game is her attitude and the never-say-die spirit." After joining Gopichand's badminton academy, Sindhu won several titles. In the under-10 years category, she won the fifth Servo All India ranking championship in the doubles category and the singles title at the Ambuja Cement All India ranking. In the under-13 years category, she won the singles title at the Sub-juniors in Pondicherry, doubles titles at the Krishna Khaitan All India Tournament IOC All India Ranking, the Sub-Junior Nationals and the All India Ranking in Pune. She also won the under-14 team gold medal at the 51st National State Games in India.She later parted company with Gopichand and went on to train with South Korean coach Park Tae-sang.
+          </p>
+     </div>  
+
+    </div>
+    <div class="flex1">
+        <div>
+            <h1>ACHIEVEMENTS</h1>
+            <p>
+                National <br>
+                Padma Bhushan, Third Highest Civilian Award of India (2020). <br>
+                Major Dhyan Chand Khel Ratna, highest sporting honour of India (2016) <br>
+                Padma Shri, the fourth highest civilian award of India (2015) <br>
+                Arjuna Award (2013) <br>
+                <br>
+
+                Others <br>
+                FICCI Breakthrough Sportsperson of the Year 2014 <br>
+                NDTV Indian of the Year 2014 <br>
+                ₹1 million (US$13,000) from the Badminton Association of India, for her victory in the 2015 Macau Open Badminton Championships. <br>
+                ₹500,000 (US$6,600) from the Badminton Association of India, for her victory in the 2016 Malaysia Masters <br>
+                TV9 Nava Nakshatra Sanmanam - 2019 <br>
+
+               
+                
+            </p>
+        </div>
+
+    </div>
+</body>
+</html>
